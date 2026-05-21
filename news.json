@@ -1,13 +1,85 @@
 [
   {
     "source": "Reporterre",
+    "title": "PFAS : trois collectifs poursuivent l'État en justice",
+    "link": "https://reporterre.net/Des-collectifs-poursuivent-l-Etat-dans-le-scandale-des-PFAS",
+    "date": "2026-05-21T07:06:57.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "En abandonnant le plan vélo, l'État a aussi sacrifié la santé",
+    "link": "https://reporterre.net/Tout-le-monde-aurait-a-y-gagner-investir-dans-le-velo-est-aussi-bon-pour-la-Secu",
+    "date": "2026-05-21T05:30:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Pour sauver les glaciers tropicaux, la lutte s'organise en Colombie",
+    "link": "https://reporterre.net/Pour-sauver-les-glaciers-tropicaux-la-lutte-s-organise-en-Colombie",
+    "date": "2026-05-21T05:30:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Le problème, c'est la masse » : le surtourisme abîme le piton de la Fournaise",
+    "link": "https://reporterre.net/Le-probleme-c-est-la-masse-le-surtourisme-abime-le-piton-de-la-Fournaise",
+    "date": "2026-05-21T05:30:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Arctique : le changement climatique menace l'héritage archéologique",
+    "link": "https://reporterre.net/Arctique-le-changement-climatique-menace-l-heritage-archeologique",
+    "date": "2026-05-20T18:00:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "« Presque toute la prison sait qui tu es et ce que tu as fait »",
+    "link": "https://lesjours.fr/obsessions/repentis/ep2-proces/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Wed, 20 May 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Courchevel : une retenue d'eau pour le ski menace de s'effondrer sur un hameau",
+    "link": "https://reporterre.net/Courchevel-une-retenue-d-eau-pour-le-ski-menace-de-s-effondrer-sur-un-hameau",
+    "date": "2026-05-20T16:39:17.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Laits contaminés : les entreprises ont beaucoup tardé à avertir les autorités",
+    "link": "https://reporterre.net/Laits-contamines-les-entreprises-ont-beaucoup-tarde-a-avertir-les-autorites",
+    "date": "2026-05-20T16:01:09.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Océan : les emballages alimentaires sont les principaux responsables de la pollution plastique",
+    "link": "https://reporterre.net/Ocean-les-emballages-alimentaires-sont-les-principaux-responsables-de-la-pollution",
+    "date": "2026-05-20T15:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Festival de Cannes : une salariée écartée à cause de son engagement écolo",
+    "link": "https://reporterre.net/Chloe-interdite-de-Festival-de-Cannes-en-raison-de-son-engagement-ecolo",
+    "date": "2026-05-20T13:48:58.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "« Les Jours, 10 ans d’investigations en séries » : notre livre anniversaire est enfin là",
+    "link": "https://lesjours.fr/obsessions/vie-jours/ep175-livre-10-ans/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Wed, 20 May 2026 13:18:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Un pesticide « génétique » interdit en Europe débarque... en Belgique",
+    "link": "https://reporterre.net/Un-nouveau-type-de-pesticide-genetique-debarque-en-Europe",
+    "date": "2026-05-20T13:06:54.000Z"
+  },
+  {
+    "source": "Reporterre",
     "title": "Des dindes maltraitées vendues sous marque Carrefour, montre une vidéo de L214",
     "link": "https://reporterre.net/Des-dindes-maltraitees-vendues-sous-marque-Carrefour-montre-L214",
     "date": "2026-05-20T08:44:09.000Z"
   },
   {
     "source": "Reporterre",
-    "title": "Sans l'Ademe, ces six projets n'auraient pas existé",
+    "title": "À quoi sert l'Ademe, l'agence de la transition écologique ?",
     "link": "https://reporterre.net/Sans-l-Ademe-ces-six-projets-ecolos-n-auraient-pas-existe",
     "date": "2026-05-20T07:28:13.000Z"
   },
@@ -46,77 +118,5 @@
     "title": "Consigne pour les bouteilles plastiques : Macron remet sur la table cette proposition critiquée",
     "link": "https://reporterre.net/Le-retour-du-debat-autour-de-la-consigne-pour-les-bouteilles-plastiques",
     "date": "2026-05-19T14:41:14.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Sous testostérone, les poissons d'élevage égyptiens bientôt importés en Europe",
-    "link": "https://reporterre.net/Sous-testosterone-les-poissons-d-elevage-egyptiens-bientot-importes-en-Europe",
-    "date": "2026-05-19T14:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Épices Ducros, riz Taureau ailé, thé Lipton... Des pesticides interdits trouvés dans des produits du quotidien",
-    "link": "https://reporterre.net/Des-pesticides-interdits-retrouves-dans-des-epices-Ducros-du-riz-Taureau-Aile-et-du-the",
-    "date": "2026-05-19T10:43:50.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "La loi d'urgence agricole veut donner carte blanche aux élevages intensifs",
-    "link": "https://reporterre.net/La-loi-d-urgence-agricole-veut-donner-carte-blanche-aux-elevages-intensifs",
-    "date": "2026-05-19T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Rubans plastiques : « Ce balisage utile aux sportifs empoisonne la forêt »",
-    "link": "https://reporterre.net/Rubans-plastiques-Ce-balisage-utile-aux-sportifs-empoisonne-la-foret",
-    "date": "2026-05-19T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Grâce au solaire citoyen, ils offrent une électricité à prix fixe",
-    "link": "https://reporterre.net/La-cooperative-citoyenne-d-electricite-un-modele-qui-fait-ses-preuves-jusque-dans-les",
-    "date": "2026-05-19T05:30:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "« Zapper Bolloré » ? Attention, ça va couper !",
-    "link": "https://lesjours.fr/obsessions/l-empire/ep251-saada-tribune-bollore/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Mon, 18 May 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Cinq activistes opposés à une déviation ont passé le weekend en prison",
-    "link": "https://reporterre.net/Cinq-activistes-opposes-a-une-deviation-ont-passe-le-weekend-en-prison",
-    "date": "2026-05-18T15:39:34.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "78 % des rivières perdent de l'oxygène, notamment à cause du réchauffement climatique",
-    "link": "https://reporterre.net/78-des-rivieres-mondiales-perdent-de-l-oxygene",
-    "date": "2026-05-18T15:33:07.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Redressement judiciaire de FNE Rhône : le tribunal valide le plan de l'association",
-    "link": "https://reporterre.net/Redressement-judiciaire-de-FNE-Rhone-le-tribunal-valide-le-plan-de-l-association",
-    "date": "2026-05-18T15:17:04.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Amine Kessaci : « La lutte antimafia est une question de santé publique »",
-    "link": "https://reporterre.net/Amine-Kessaci-La-lutte-antimafia-est-une-question-de-sante-publique",
-    "date": "2026-05-18T15:02:22.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Total City », la ville du gaz de schiste qui va accueillir la Coupe du monde",
-    "link": "https://reporterre.net/Total-City-la-ville-du-gaz-de-schiste-qui-va-accueillir-la-Coupe-du-monde",
-    "date": "2026-05-18T14:53:39.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Un « passage en force inadmissible » : l'enquête publique sur Cigéo commence",
-    "link": "https://reporterre.net/Un-passage-en-force-inadmissible-l-enquete-publique-sur-Cigeo-commence",
-    "date": "2026-05-18T08:22:13.000Z"
   }
 ]
