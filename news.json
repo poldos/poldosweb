@@ -1,6 +1,84 @@
 [
   {
     "source": "Reporterre",
+    "title": "Algues vertes : l'État à nouveau condamné pour préjudice écologique",
+    "link": "https://reporterre.net/Algues-vertes-l-Etat-a-nouveau-condamne-pour-prejudice-ecologique",
+    "date": "2026-06-17T12:15:39.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Canicule : EDF envisage de réduire la production de deux centrales nucléaires",
+    "link": "https://reporterre.net/Canicule-EDF-envisage-de-reduire-la-production-de-deux-centrales-nucleaires",
+    "date": "2026-06-17T10:25:34.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Loi fast-fashion : Shein dans le viseur, H&M, Zara ou Kiabi passent entre les mailles du filet",
+    "link": "https://reporterre.net/Videe-de-son-ambition-la-loi-anti-fast-fashion-entre-dans-sa-derniere-ligne-droite",
+    "date": "2026-06-17T07:38:03.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Jugé trop engagé, le site « Vertige Media » persona non grata au Salon de l'escalade",
+    "link": "https://reporterre.net/Juge-trop-engage-le-site-Vertige-Media-persona-non-grata-au-Salon-de-l-escalade",
+    "date": "2026-06-17T05:30:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Valérie Masson-Delmotte : « Le nombre de jours de vagues de chaleur sera multiplié par dix à l'horizon 2100 »",
+    "link": "https://reporterre.net/Valerie-Masson-Delmotte-Le-depassement-de-40-oC-autrefois-rarissime-est-en-train-de",
+    "date": "2026-06-17T05:00:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "Meurtre ou violences ? Derrière la mort de Nahel, l’enjeu des mots",
+    "link": "https://lesjours.fr/obsessions/police-nahel/ep6-meurtre-justice/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Tue, 16 Jun 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "EPR de Flamanville : le nouveau couvercle est arrivé, 12 ans après la découverte de l'anomalie",
+    "link": "https://reporterre.net/EPR-de-Flamanville-le-nouveau-couvercle-est-arrive-12-ans-apres-la-decouverte-de-l-anomalie",
+    "date": "2026-06-16T15:25:31.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Face à leurs victimes, les fabricants de l'agent orange nient leur responsabilité",
+    "link": "https://reporterre.net/Face-a-leurs-victimes-les-fabricants-de-l-agent-orange-nient-leur-responsabilite",
+    "date": "2026-06-16T15:24:31.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Victimes d'un arbitrage politique », ces associations essentielles à la transition écologique pourraient disparaître",
+    "link": "https://reporterre.net/Victimes-d-un-arbitrage-politique-ces-associations-essentielles-a-la-transition-ecologique-pourraient-disparaitre",
+    "date": "2026-06-16T15:04:39.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Irrigation, élevage, loups... Le Sénat va-t-il encore durcir la loi d'urgence agricole ?",
+    "link": "https://reporterre.net/Irrigation-elevage-loups-Le-Senat-va-t-il-encore-durcir-la-loi-d-urgence-agricole",
+    "date": "2026-06-16T15:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Sirop à la menthe : un colorant potentiellement dangereux pointé par Yuka",
+    "link": "https://reporterre.net/Sirop-a-la-menthe-un-colorant-potentiellement-dangereux-pointe-par-Yuka",
+    "date": "2026-06-16T14:52:19.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Nouveaux OGM : avant un vote décisif, des paysans font monter la pression",
+    "link": "https://reporterre.net/Nouveaux-OGM-avant-un-vote-decisif-des-paysans-font-monter-la-pression",
+    "date": "2026-06-16T14:47:49.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Des batteries de voiture aux missiles : quand une raffinerie « verte » sert l'industrie militaire",
+    "link": "https://reporterre.net/Des-batteries-de-voiture-aux-missiles-quand-une-raffinerie-verte-sert-l-industrie",
+    "date": "2026-06-16T13:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
     "title": "La consommation de bio à la hausse, mais le nombre de fermes engagées recule",
     "link": "https://reporterre.net/La-consommation-de-bio-a-la-hausse-mais-le-nombre-de-fermes-engagees-recule",
     "date": "2026-06-16T12:51:01.000Z"
@@ -19,7 +97,7 @@
   },
   {
     "source": "Reporterre",
-    "title": "Une autre Coupe du monde est possible : notre débat à regarder avant (ou pendant) France-Sénégal",
+    "title": "Une autre Coupe du monde est possible : notre débat en vidéo",
     "link": "https://reporterre.net/Une-autre-Coupe-du-monde-est-possible-notre-debat-a-regarder-avant-ou-pendant-France-Senegal",
     "date": "2026-06-16T09:14:33.000Z"
   },
@@ -40,83 +118,5 @@
     "title": "A69 : au Conseil d'État, le rapporteur public se prononce contre les opposants",
     "link": "https://reporterre.net/A69-au-Conseil-d-Etat-le-rapporteur-public-se-prononce-contre-les-opposants",
     "date": "2026-06-15T17:52:09.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Trump et les milliardaires, l’amour flouze",
-    "link": "https://lesjours.fr/obsessions/this-is-america-5/ep40-trump-milliardaires/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Mon, 15 Jun 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Des militants « humiliés et frappés » par le GIGN lors d'une action antimilitariste en Haute-Savoie",
-    "link": "https://reporterre.net/Des-militants-humilies-et-frappes-par-le-GIGN-lors-d-une-action-antimilitariste-en-Haute",
-    "date": "2026-06-15T15:18:02.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« 100 % fibre naturelle » ? De nombreuses erreurs sur les étiquettes des vêtements",
-    "link": "https://reporterre.net/100-fibre-naturelle-De-nombreuses-erreurs-sur-les-etiquettes-des-vetements",
-    "date": "2026-06-15T15:15:50.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Aspergée d'agent orange il y a 60 ans, Tran To Nga tient toujours tête à Bayer-Monsanto",
-    "link": "https://reporterre.net/Tant-que-je-respire-je-me-battrai-Tran-To-Nga-une-vie-contre-Bayer-Monsanto",
-    "date": "2026-06-15T13:52:11.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Des habitants exposés aux PFAS pressent l'État d'agir : « C'est comme si on était des sous-citoyens »",
-    "link": "https://reporterre.net/On-veut-savoir-si-tout-ca-a-un-impact-sur-notre-sante-des-habitants-exposes-aux-PFAS",
-    "date": "2026-06-15T13:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Une hécatombe invisible » : près de 6 milliards de poissons et crustacés tués par les centrales nucléaires",
-    "link": "https://reporterre.net/Une-hecatombe-invisible-pres-de-6-milliards-de-poissons-et-crustaces-tues-par-les",
-    "date": "2026-06-15T13:06:41.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "15,4 °C en Antarctique : le mois de juin n'a jamais été aussi chaud",
-    "link": "https://reporterre.net/15-4-oC-en-Antarctique-le-mois-de-juin-n-a-jamais-ete-aussi-chaud",
-    "date": "2026-06-15T13:00:35.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Notre corrigé du bac de philo : « La technique bouleverse toute la société »",
-    "link": "https://reporterre.net/Notre-corrige-du-bac-de-philo-La-technique-bouleverse-toute-la-societe",
-    "date": "2026-06-15T12:40:48.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Pourquoi des écologistes, favorables au solaire, s'opposent à des projets photovoltaïques",
-    "link": "https://reporterre.net/Pourquoi-des-ecologistes-favorables-au-solaire-s-opposent-a-des-projets-photovoltaiques",
-    "date": "2026-06-15T07:12:33.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "G7 d'Évian : Emmanuel Macron efface le climat de l'agenda pour « ne pas fâcher » Donald Trump",
-    "link": "https://reporterre.net/G7-d-Evian-Emmanuel-Macron-efface-le-climat-de-l-agenda-pour-ne-pas-facher-Donald-Trump",
-    "date": "2026-06-15T05:05:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "L'A69 quasi terminée ? Le grand bluff d'Atosca avant une audience décisive",
-    "link": "https://reporterre.net/L-A69-quasi-terminee-Le-grand-bluff-d-Atosca-avant-une-audience-decisive",
-    "date": "2026-06-15T05:00:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "L’IA pour résoudre des « cold cases » ? Une piste pas si artificielle",
-    "link": "https://lesjours.fr/obsessions/pole-judiciaire-cold-cases/ep33-ia-enquetes/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Sun, 14 Jun 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Radiée du RSA : une maraîchère face à la « traque des précaires » menée par le Finistère",
-    "link": "https://reporterre.net/Radiee-du-RSA-une-maraichere-face-a-la-traque-des-precaires-menee-par-le-Finistere",
-    "date": "2026-06-14T05:30:00.000Z"
   }
 ]
