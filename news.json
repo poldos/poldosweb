@@ -1,13 +1,85 @@
 [
   {
     "source": "Reporterre",
+    "title": "Nuits blanches, migraines... Les lycéens passent leur bac dans une chaleur étouffante",
+    "link": "https://reporterre.net/On-joue-notre-avenir-et-tout-le-monde-s-en-fiche-les-lyceens-etouffent-pendant-le-bac",
+    "date": "2026-06-19T08:23:44.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Je n'ai pas le choix, il faut travailler » : ouvriers et livreurs cuisent dans la fournaise",
+    "link": "https://reporterre.net/Je-n-ai-pas-le-choix-il-faut-travailler-en-pleine-canicule-ouvriers-et-livreurs",
+    "date": "2026-06-19T07:47:03.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Les compagnies pétrolières, seules « gagnantes » de la guerre au Moyen-Orient",
+    "link": "https://reporterre.net/Reouverture-du-detroit-d-Ormuz-un-accord-ou-le-petrole-est-roi",
+    "date": "2026-06-19T07:44:16.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "LPO, magistrats... Mobilisation contre un décret limitant la contestation de projets polluants",
+    "link": "https://reporterre.net/LPO-magistrats-Mobilisation-contre-un-decret-limitant-la-contestation-de-projets",
+    "date": "2026-06-19T07:15:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Ça pourrait être le début de la fin » : en Corse, la loi d'autonomie inquiète les écologistes",
+    "link": "https://reporterre.net/Ca-pourrait-etre-le-debut-de-la-fin-en-Corse-la-loi-d-autonomie-inquiete-les-ecologistes",
+    "date": "2026-06-19T05:30:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "Trois mois de mairies RN, trois mois de bâillons et d’intimidation",
+    "link": "https://lesjours.fr/obsessions/rn-derniere-marche-2/ep34-mairies-rn/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Thu, 18 Jun 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Pêche : la ministre de la mer pourrait exclure les bateaux industriels des côtes françaises",
+    "link": "https://reporterre.net/La-ministre-de-la-mer-annonce-vouloir-interdire-la-bande-cotiere-aux-bateaux-de-peche",
+    "date": "2026-06-18T16:23:29.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Vous êtes miss météo, contentez-vous de faire la météo » : la chaleur revient, le harcèlement des journalistes aussi",
+    "link": "https://reporterre.net/Les-climatosceptiques-sont-de-sortie-les-journalistes-meteo-cibles-a-chaque-canicule",
+    "date": "2026-06-18T15:33:06.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Le gouvernement a fait pression pour que l'Ademe finance l'un des plus grands pollueurs de France",
+    "link": "https://reporterre.net/Le-gouvernement-a-fait-pression-pour-que-l-Ademe-finance-l-un-des-plus-grands-pollueurs-de-France",
+    "date": "2026-06-18T15:13:22.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Bientôt tous inassurables ? De premières données et beaucoup de questions",
+    "link": "https://reporterre.net/Bientot-tous-inassurables-De-premieres-donnees-et-beaucoup-de-questions",
+    "date": "2026-06-18T14:51:59.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Acétamipride : Laurent Duplomb fait voter le retour de l'insecticide en commission sénatoriale",
+    "link": "https://reporterre.net/Acetamipride-Laurent-Duplomb-fait-adopter-le-retour-de-l-insecticide-controverse",
+    "date": "2026-06-18T12:01:49.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "La SNCF annule 71 trains à cause de la canicule",
+    "link": "https://reporterre.net/La-SNCF-annule-71-trains-a-cause-de-la-canicule",
+    "date": "2026-06-18T11:56:15.000Z"
+  },
+  {
+    "source": "Reporterre",
     "title": "Climat : la France a censuré des sujets au G7 pour ne pas « froisser Washington »",
     "link": "https://reporterre.net/Climat-la-France-a-censure-des-sujets-au-G7-pour-ne-pas-froisser-Washington",
     "date": "2026-06-18T11:45:55.000Z"
   },
   {
     "source": "Reporterre",
-    "title": "Village des JO 2030 : « Avec des délais aussi serrés, on court vers des malfaçons »",
+    "title": "Dans les Alpes, le projet de village olympique avance à marche forcée",
     "link": "https://reporterre.net/Village-des-JO-2030-Avec-des-delais-aussi-serres-on-court-vers-des-malfacons",
     "date": "2026-06-18T09:48:48.000Z"
   },
@@ -46,77 +118,5 @@
     "title": "Des OGM bientôt dans nos assiettes : l'Europe a donné son feu vert",
     "link": "https://reporterre.net/Des-OGM-bientot-dans-nos-assiettes-l-Europe-a-donne-son-feu-vert",
     "date": "2026-06-17T13:55:29.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Il est temps de choisir son camp » : et si on créait un label « sans IA générative » ?",
-    "link": "https://reporterre.net/Il-est-temps-de-choisir-son-camp-plaidoyer-pour-un-label-sans-IA-generative",
-    "date": "2026-06-17T13:00:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Algues vertes : l'État à nouveau condamné pour préjudice écologique",
-    "link": "https://reporterre.net/Algues-vertes-l-Etat-a-nouveau-condamne-pour-prejudice-ecologique",
-    "date": "2026-06-17T12:15:39.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Canicule : EDF envisage de réduire la production de deux centrales nucléaires",
-    "link": "https://reporterre.net/Canicule-EDF-envisage-de-reduire-la-production-de-deux-centrales-nucleaires",
-    "date": "2026-06-17T10:25:34.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Avec Shein comme unique cible, la loi sur la fast-fashion loupe le coche",
-    "link": "https://reporterre.net/Videe-de-son-ambition-la-loi-anti-fast-fashion-entre-dans-sa-derniere-ligne-droite",
-    "date": "2026-06-17T07:38:03.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Jugé trop engagé, le site « Vertige Media » persona non grata au Salon de l'escalade",
-    "link": "https://reporterre.net/Juge-trop-engage-le-site-Vertige-Media-persona-non-grata-au-Salon-de-l-escalade",
-    "date": "2026-06-17T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Le nombre de jours de vagues de chaleur sera multiplié par dix à l'horizon 2100 »",
-    "link": "https://reporterre.net/Valerie-Masson-Delmotte-Le-depassement-de-40-oC-autrefois-rarissime-est-en-train-de",
-    "date": "2026-06-17T05:00:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Meurtre ou violences ? Derrière la mort de Nahel, l’enjeu des mots",
-    "link": "https://lesjours.fr/obsessions/police-nahel/ep6-meurtre-justice/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Tue, 16 Jun 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "EPR de Flamanville : le nouveau couvercle est arrivé, 12 ans après la découverte de l'anomalie",
-    "link": "https://reporterre.net/EPR-de-Flamanville-le-nouveau-couvercle-est-arrive-12-ans-apres-la-decouverte-de-l-anomalie",
-    "date": "2026-06-16T15:25:31.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Face à leurs victimes, les fabricants de l'agent orange nient leur responsabilité",
-    "link": "https://reporterre.net/Face-a-leurs-victimes-les-fabricants-de-l-agent-orange-nient-leur-responsabilite",
-    "date": "2026-06-16T15:24:31.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Victimes d'un arbitrage politique », ces associations essentielles à la transition écologique pourraient disparaître",
-    "link": "https://reporterre.net/Victimes-d-un-arbitrage-politique-ces-associations-essentielles-a-la-transition-ecologique-pourraient-disparaitre",
-    "date": "2026-06-16T15:04:39.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Irrigation, élevage, loups... Le Sénat va-t-il encore durcir la loi d'urgence agricole ?",
-    "link": "https://reporterre.net/Irrigation-elevage-loups-Le-Senat-va-t-il-encore-durcir-la-loi-d-urgence-agricole",
-    "date": "2026-06-16T15:00:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Sirop à la menthe : un colorant potentiellement dangereux pointé par Yuka",
-    "link": "https://reporterre.net/Sirop-a-la-menthe-un-colorant-potentiellement-dangereux-pointe-par-Yuka",
-    "date": "2026-06-16T14:52:19.000Z"
   }
 ]
