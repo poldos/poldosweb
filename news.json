@@ -1,6 +1,72 @@
 [
   {
     "source": "Les Jours",
+    "title": "« J’ai peur »",
+    "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep2-j-ai-peur/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Thu, 02 Jul 2026 09:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "La fusion des agences de sûreté nucléaire crée le mal-être chez les salariés",
+    "link": "https://reporterre.net/La-fusion-des-agences-de-surete-nucleaire-cree-le-mal-etre-chez-les-salaries",
+    "date": "2026-07-02T08:38:54.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Imprimantes en panne : le fabricant Epson en procès pour obsolescence programmée",
+    "link": "https://reporterre.net/Imprimantes-en-panne-le-fabricant-Epson-en-proces-pour-obsolescence-programmee",
+    "date": "2026-07-02T08:08:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« On en voit un, puis deux, puis trois… » Au fond de l'Atlantique, un cimetière de fûts radioactifs",
+    "link": "https://reporterre.net/On-en-voit-un-puis-deux-puis-trois-Au-fond-de-l-Atlantique-un-cimetiere-de-futs",
+    "date": "2026-07-02T07:24:25.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Comment les microplastiques des emballages alimentaires finissent dans les champs... et dans nos assiettes",
+    "link": "https://reporterre.net/Comment-les-microplastiques-des-emballages-alimentaires-finissent-dans-les-champs-et-dans",
+    "date": "2026-07-02T04:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Canicule et loi agricole : « Les \"assoiffeurs\" profitent des crises pour renforcer leur mainmise sur l'eau »",
+    "link": "https://reporterre.net/Canicule-et-loi-d-urgence-agricole-ce-n-est-pas-une-secheresse-nous-sommes-asseches-Face",
+    "date": "2026-07-01T16:54:37.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Sainte-Soline : la cour d'appel confirme les condamnations de quatre organisateurs",
+    "link": "https://reporterre.net/EN-BREF-Sainte-Soline-la-cour-d-appel-confirme-les-condamnations-de-quatre-organisateurs",
+    "date": "2026-07-01T15:57:08.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Jusqu'à 46 °C ressentis : la Coupe du monde en alerte canicule",
+    "link": "https://reporterre.net/Jusqu-a-46-oC-ressentis-la-Coupe-du-monde-en-alerte-canicule",
+    "date": "2026-07-01T15:45:39.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Chlordécone : 500 parties civiles se pourvoient en cassation",
+    "link": "https://reporterre.net/Chlordecone-500-parties-civiles-se-pourvoient-en-cassation",
+    "date": "2026-07-01T15:20:47.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Soleil tunisien, profits français : drôle de transition verte ! »",
+    "link": "https://reporterre.net/Soleil-tunisien-profits-francais-drole-de-transition-verte",
+    "date": "2026-07-01T14:28:24.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Face à un « système qui les broie », des agriculteurs soutenus par des bénévoles",
+    "link": "https://reporterre.net/Si-je-suis-encore-vivante-c-est-grace-a-eux-ces-benevoles-viennent-au-secours-d-agriculteurs-en-detresse",
+    "date": "2026-07-01T13:03:16.000Z"
+  },
+  {
+    "source": "Les Jours",
     "title": "Le jour du meurtre",
     "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep1-jour-du-meurtre/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
     "date": "Wed, 01 Jul 2026 09:59:00 GMT"
@@ -13,7 +79,7 @@
   },
   {
     "source": "Reporterre",
-    "title": "Canicule : les éleveurs bretons forcés d'enfouir des tonnes de cadavres d'animaux",
+    "title": "Canicule : 5000 tonnes de cadavres d'animaux enfouis en Bretagne",
     "link": "https://reporterre.net/Canicule-les-eleveurs-bretons-forces-d-enfouir-des-tonnes-de-cadavres-d-animaux",
     "date": "2026-07-01T08:04:47.000Z"
   },
@@ -25,7 +91,7 @@
   },
   {
     "source": "Reporterre",
-    "title": "Comment la canicule met les centrales nucléaires à l'épreuve",
+    "title": "Sécheresse et températures trop élevées : le nucléaire souffre aussi des canicules",
     "link": "https://reporterre.net/Comment-la-canicule-met-les-centrales-nucleaires-a-l-epreuve",
     "date": "2026-07-01T07:29:27.000Z"
   },
@@ -52,71 +118,5 @@
     "title": "L'État condamné à en faire plus pour la protection des cétacés",
     "link": "https://reporterre.net/L-Etat-condamne-a-en-faire-plus-pour-la-protection-des-cetaces",
     "date": "2026-06-30T15:42:12.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Le Pérou bascule à l'extrême droite avec l'élection de Keiko Fujimori",
-    "link": "https://reporterre.net/Le-Perou-bascule-a-l-extreme-droite-avec-l-election-de-Keiko-Fujimori",
-    "date": "2026-06-30T15:35:10.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Trop chaud pour se mobiliser : quand le réchauffement climatique empêche les luttes écologistes",
-    "link": "https://reporterre.net/Les-actions-contre-le-rechauffement-climatique-annulees-a-cause-du-rechauffement",
-    "date": "2026-06-30T14:44:30.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Pour eux, ici, c'est Disneyland » : des bergers s'opposent au VTT en montagne",
-    "link": "https://reporterre.net/Pour-eux-ici-c-est-Disneyland-des-bergers-s-opposent-au-VTT-en-montagne",
-    "date": "2026-06-30T13:15:09.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Les espèces d'insectes sont 3 fois plus nombreuses que ce qu'on pensait",
-    "link": "https://reporterre.net/INF-Jusqu-a-20-millions-d-especes-d-insectes-sur-Terre-selon-une-nouvelle-etude-La-Terre",
-    "date": "2026-06-30T12:52:25.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Loi d'urgence agricole : le Sénat vote le retour de l'acétamipride",
-    "link": "https://reporterre.net/Loi-d-urgence-agricole-le-Senat-vote-le-retour-de-l-acetamipride",
-    "date": "2026-06-30T12:46:56.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "A69 : la décision du Conseil d'État pourrait « faciliter les grands projets d'aménagement »",
-    "link": "https://reporterre.net/A69-la-decision-du-Conseil-d-Etat-pourrait-faciliter-les-grands-projets-d-amenagement",
-    "date": "2026-06-30T09:45:01.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Dauphins, goélands et mollusques bouleversés par les parcs éoliens en mer",
-    "link": "https://reporterre.net/Comment-les-parcs-eoliens-pourraient-transformer-durablement-les-ecosystemes-marins",
-    "date": "2026-06-30T08:32:14.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "BASF encore pris la main dans le sac : deux pesticides interdits découverts dans une usine française",
-    "link": "https://reporterre.net/L-Etat-ne-nous-donne-pas-le-choix-ils-s-infiltrent-dans-une-usine-a-la-recherche-de-pesticides-interdits",
-    "date": "2026-06-30T08:03:58.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Congé climatique, droit à la fraîcheur... Que propose la gauche face à la canicule ?",
-    "link": "https://reporterre.net/Que-propose-la-gauche-face-a-la-canicule-Tour-d-horizon-en-cinq-propositions",
-    "date": "2026-06-30T07:50:27.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Pétrole : la crise touche au brut",
-    "link": "https://lesjours.fr/obsessions/chocs-petroliers/ep1-miroir-1973/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Mon, 29 Jun 2026 16:56:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Fast-fashion : la loi enfin adoptée, mais édulcorée",
-    "link": "https://reporterre.net/Fast-fashion-la-loi-enfin-adoptee-mais-edulcoree",
-    "date": "2026-06-29T16:25:21.000Z"
   }
 ]
