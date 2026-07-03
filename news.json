@@ -1,6 +1,78 @@
 [
   {
     "source": "Les Jours",
+    "title": "« Une femme a tué son mari »",
+    "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep3-une-femme-a-tue-son-mari/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Fri, 03 Jul 2026 09:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Mégaferme à saumons : un avis favorable « signe l'arrêt de mort de l'estuaire de la Gironde »",
+    "link": "https://reporterre.net/Megaferme-a-saumons-un-avis-favorable-signe-l-arret-de-mort-de-l-estuaire-de-la-Gironde",
+    "date": "2026-07-03T09:33:23.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« On ne parle pas des autres polluants » : le mirage de la décarbonation du port de Saint-Nazaire",
+    "link": "https://reporterre.net/Port-industriel-de-Saint-Nazaire-le-mirage-de-la-decarbonation-Le-port-de-Saint-Nazaire",
+    "date": "2026-07-03T08:28:59.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Si on n'a pas de pluie, on va être très, très mal » : la France fait face à une sécheresse intense",
+    "link": "https://reporterre.net/Si-on-n-a-pas-de-pluie-on-va-etre-tres-tres-mal-une-secheresse-intense-asseche-la-France",
+    "date": "2026-07-03T06:00:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "De Douvres à Calais, la déferlante des raids d’extrême droite",
+    "link": "https://lesjours.fr/obsessions/ultradroite-france-angleterre-manche/ep2-ukip-raise-the-colours/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Thu, 02 Jul 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Canicule : Les Écologistes déposent leur motion de censure contre le gouvernement",
+    "link": "https://reporterre.net/Canicule-Les-Ecologistes-deposent-leur-motion-de-censure-contre-le-gouvernement",
+    "date": "2026-07-02T16:01:43.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Près de 7 000 départs de feu : la saison des incendies commence violemment en France",
+    "link": "https://reporterre.net/Pres-de-7-000-departs-de-feu-la-saison-des-incendies-commence-violemment-en-France",
+    "date": "2026-07-02T16:01:07.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Hareng, cabillaud... des poissons presque disparus des eaux britanniques",
+    "link": "https://reporterre.net/Hareng-cabillaud-des-poissons-presque-disparus-des-eaux-britanniques",
+    "date": "2026-07-02T15:52:45.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Toutes les plantes vont mourir » : la sécheresse précoce inquiète les paysans",
+    "link": "https://reporterre.net/Toutes-les-plantes-vont-mourir-la-secheresse-precoce-inquiete-les-paysans",
+    "date": "2026-07-02T15:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "CNews : QuotaClimat en appelle au Conseil d'État pour faire condamner le climatoscepticisme de la chaîne",
+    "link": "https://reporterre.net/CNews-QuotaClimat-en-appelle-au-Conseil-d-Etat-pour-faire-condamner-le-climatoscepticisme",
+    "date": "2026-07-02T14:58:56.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Il y a une forme d'inconscience vis-à-vis du danger » : contre les incendies, des milliers de bénévoles patrouillent ",
+    "link": "https://reporterre.net/La-moindre-etincelle-peut-degenerer-en-incendie-ici-les-habitants-veillent-sur-les-forets",
+    "date": "2026-07-02T13:43:33.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Un effet machine à laver » : la baignade dans la Loire, populaire mais dangereuse",
+    "link": "https://reporterre.net/On-ne-peut-pas-les-empecher-d-y-aller-la-baignade-dans-la-Loire-populaire-mais-dangereuse",
+    "date": "2026-07-02T13:10:33.000Z"
+  },
+  {
+    "source": "Les Jours",
     "title": "« J’ai peur »",
     "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep2-j-ai-peur/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
     "date": "Thu, 02 Jul 2026 09:59:00 GMT"
@@ -13,7 +85,7 @@
   },
   {
     "source": "Reporterre",
-    "title": "Imprimantes en panne : le fabricant Epson en procès pour obsolescence programmée",
+    "title": "Obsolescence programmée : le fabricant Epson en procès pour ses imprimantes",
     "link": "https://reporterre.net/Imprimantes-en-panne-le-fabricant-Epson-en-proces-pour-obsolescence-programmee",
     "date": "2026-07-02T08:08:00.000Z"
   },
@@ -25,13 +97,13 @@
   },
   {
     "source": "Reporterre",
-    "title": "Comment les microplastiques des emballages alimentaires finissent dans les champs... et dans nos assiettes",
+    "title": "Boîtes de pizza, opercules de yaourt... Comment des fragments d'emballages plastiques se retrouvent dans les champs",
     "link": "https://reporterre.net/Comment-les-microplastiques-des-emballages-alimentaires-finissent-dans-les-champs-et-dans",
     "date": "2026-07-02T04:00:00.000Z"
   },
   {
     "source": "Reporterre",
-    "title": "Canicule et loi agricole : « Les \"assoiffeurs\" profitent des crises pour renforcer leur mainmise sur l'eau »",
+    "title": "Canicule et loi agricole : « Les “assoiffeurs” profitent des crises pour renforcer leur mainmise sur l'eau »",
     "link": "https://reporterre.net/Canicule-et-loi-d-urgence-agricole-ce-n-est-pas-une-secheresse-nous-sommes-asseches-Face",
     "date": "2026-07-01T16:54:37.000Z"
   },
@@ -46,77 +118,5 @@
     "title": "Jusqu'à 46 °C ressentis : la Coupe du monde en alerte canicule",
     "link": "https://reporterre.net/Jusqu-a-46-oC-ressentis-la-Coupe-du-monde-en-alerte-canicule",
     "date": "2026-07-01T15:45:39.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Chlordécone : 500 parties civiles se pourvoient en cassation",
-    "link": "https://reporterre.net/Chlordecone-500-parties-civiles-se-pourvoient-en-cassation",
-    "date": "2026-07-01T15:20:47.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Soleil tunisien, profits français : drôle de transition verte ! »",
-    "link": "https://reporterre.net/Soleil-tunisien-profits-francais-drole-de-transition-verte",
-    "date": "2026-07-01T14:28:24.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Face à un « système qui les broie », des agriculteurs soutenus par des bénévoles",
-    "link": "https://reporterre.net/Si-je-suis-encore-vivante-c-est-grace-a-eux-ces-benevoles-viennent-au-secours-d-agriculteurs-en-detresse",
-    "date": "2026-07-01T13:03:16.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Le jour du meurtre",
-    "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep1-jour-du-meurtre/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Wed, 01 Jul 2026 09:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Consigne sur le plastique : élus et ONG claquent la porte de la concertation",
-    "link": "https://reporterre.net/Consigne-sur-le-plastique-elus-et-ONG-claquent-la-porte-de-la-concertation",
-    "date": "2026-07-01T08:06:28.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Canicule : 5000 tonnes de cadavres d'animaux enfouis en Bretagne",
-    "link": "https://reporterre.net/Canicule-les-eleveurs-bretons-forces-d-enfouir-des-tonnes-de-cadavres-d-animaux",
-    "date": "2026-07-01T08:04:47.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Météo France : « Dès vendredi, les températures repartent à la hausse » ",
-    "link": "https://reporterre.net/Meteo-France-annonce-un-nouvel-episode-de-chaleur-a-partir-de-ce-weekend-Meteo-France-Sur",
-    "date": "2026-07-01T07:41:58.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Sécheresse et températures trop élevées : le nucléaire souffre aussi des canicules",
-    "link": "https://reporterre.net/Comment-la-canicule-met-les-centrales-nucleaires-a-l-epreuve",
-    "date": "2026-07-01T07:29:27.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "21 °C à la surface des océans : un record absolu pour la saison",
-    "link": "https://reporterre.net/21-oC-a-la-surface-des-oceans-un-record-absolu-pour-la-saison",
-    "date": "2026-07-01T02:00:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "En Iran : « On est toujours bloqués dans les mêmes impasses »",
-    "link": "https://lesjours.fr/obsessions/iran-guerre/ep10-paroles-iraniens/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Tue, 30 Jun 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Les Écologistes s'organisent contre le RN à la campagne... mais peinent à sortir de l'entre-soi",
-    "link": "https://reporterre.net/Les-ecologistes-s-organisent-contre-le-RN-a-la-campagne-mais-peinent-a-sortir-de-l-entre",
-    "date": "2026-06-30T16:53:31.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "L'État condamné à en faire plus pour la protection des cétacés",
-    "link": "https://reporterre.net/L-Etat-condamne-a-en-faire-plus-pour-la-protection-des-cetaces",
-    "date": "2026-06-30T15:42:12.000Z"
   }
 ]
