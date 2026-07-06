@@ -1,13 +1,43 @@
 [
   {
     "source": "Les Jours",
+    "title": "Aucun ennemi",
+    "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep6-aucun-ennemi/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Mon, 06 Jul 2026 09:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Un joyau de biodiversité » menacé : ils forment une chaîne humaine contre la LGV Bordeaux-Toulouse",
+    "link": "https://reporterre.net/Une-foret-vieille-de-40-000-ans-menacee-ils-forment-une-chaine-humaine-contre-la-LGV",
+    "date": "2026-07-06T09:06:17.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "50 attaques contre l'environnement : à Bruxelles, un grand saccage soutenu par l'extrême droite",
+    "link": "https://reporterre.net/Un-rapport-fait-le-compte-des-deregulations-environnementales-europeennes-autorisations",
+    "date": "2026-07-06T07:44:09.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Agir ou cuire, il faut choisir » : le sursaut du mouvement climat « pour limiter les dégâts »",
+    "link": "https://reporterre.net/Agir-ou-cuire-il-faut-choisir-avec-les-canicules-le-retour-des-luttes-pour-le-climat",
+    "date": "2026-07-06T07:22:29.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "Naïm Boudaoud : « Je suis un dégât collatéral » de l’affaire Paty",
+    "link": "https://lesjours.fr/obsessions/ombres-affaire-paty/ep3-naim-boudaoud/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Sun, 05 Jul 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Les Jours",
     "title": "Premières auditions",
     "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep5-premieres-auditions/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
     "date": "Sun, 05 Jul 2026 09:59:00 GMT"
   },
   {
     "source": "Reporterre",
-    "title": "Misogynie et botanique : comment le patriarcat s'est infiltré dans nos jardins",
+    "title": "Savoirs effacés et noms sexistes : comment le patriarcat s'infiltre dans la botanique",
     "link": "https://reporterre.net/Misogynie-et-botanique-comment-le-patriarcat-s-est-infiltre-dans-nos-jardins",
     "date": "2026-07-05T06:00:00.000Z"
   },
@@ -31,8 +61,8 @@
   },
   {
     "source": "Reporterre",
-    "title": "« La guerre la plus meurtrière après la seconde guerre mondiale est en cours » - et personne n'en parle",
-    "link": "https://reporterre.net/La-guerre-la-plus-meurtriere-apres-la-seconde-guerre-mondiale-est-en-cours-et-personne-n",
+    "title": "« La guerre la plus meurtrière après la Seconde Guerre mondiale est en cours » - et personne n'en parle",
+    "link": "https://reporterre.net/La-guerre-la-plus-meurtriere-apres-la-Seconde-Guerre-mondiale-est-en-cours-et-personne-n",
     "date": "2026-07-04T06:00:00.000Z"
   },
   {
@@ -88,35 +118,5 @@
     "title": "Kérosène durable, cimenterie « bas carbone » : le mirage vert du port de Saint-Nazaire",
     "link": "https://reporterre.net/Port-industriel-de-Saint-Nazaire-le-mirage-de-la-decarbonation-Le-port-de-Saint-Nazaire",
     "date": "2026-07-03T08:28:59.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Si on n'a pas de pluie, on va être très, très mal » : la France fait face à une sécheresse intense",
-    "link": "https://reporterre.net/Si-on-n-a-pas-de-pluie-on-va-etre-tres-tres-mal-une-secheresse-intense-asseche-la-France",
-    "date": "2026-07-03T06:00:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "De Douvres à Calais, la déferlante des raids d’extrême droite",
-    "link": "https://lesjours.fr/obsessions/ultradroite-france-angleterre-manche/ep2-ukip-raise-the-colours/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Thu, 02 Jul 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Canicule : Les Écologistes déposent leur motion de censure contre le gouvernement",
-    "link": "https://reporterre.net/Canicule-Les-Ecologistes-deposent-leur-motion-de-censure-contre-le-gouvernement",
-    "date": "2026-07-02T16:01:43.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Près de 7 000 départs de feu : la saison des incendies commence violemment en France",
-    "link": "https://reporterre.net/Pres-de-7-000-departs-de-feu-la-saison-des-incendies-commence-violemment-en-France",
-    "date": "2026-07-02T16:01:07.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Hareng, cabillaud... des poissons presque disparus des eaux britanniques",
-    "link": "https://reporterre.net/Hareng-cabillaud-des-poissons-presque-disparus-des-eaux-britanniques",
-    "date": "2026-07-02T15:52:45.000Z"
   }
 ]
