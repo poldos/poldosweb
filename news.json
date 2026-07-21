@@ -1,6 +1,72 @@
 [
   {
     "source": "Les Jours",
+    "title": "Le fusil imaginaire",
+    "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep21-fusil-imaginaire/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Tue, 21 Jul 2026 09:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Après les incendies, ces paysans transmettent leur culture du feu et de l'entraide",
+    "link": "https://reporterre.net/Apres-les-incendies-ces-paysans-transmettent-leur-culture-du-feu-et-de-l-entraide",
+    "date": "2026-07-21T07:11:44.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Des alliés du cancer » : les députés adoptent la loi d'urgence agricole, les opposants révoltés",
+    "link": "https://reporterre.net/Des-allies-du-cancer-les-deputes-adoptent-la-loi-d-urgence-agricole-les-opposants",
+    "date": "2026-07-21T07:06:58.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« La montagne devrait être un lieu à vivre, pas un parc d'attraction géant »",
+    "link": "https://reporterre.net/La-loi-Montagne-favorisera-une-colonisation-par-les-residences-secondaires",
+    "date": "2026-07-21T05:30:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "Les troubles psy, une histoire de famille… mais pas seulement",
+    "link": "https://lesjours.fr/obsessions/sante-mentale-maladies/ep10-origines-troubles-psychiatriques/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Mon, 20 Jul 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« 45 °C sous les tentes » : Israël restreint l'accès des Palestiniens à l'eau et à la fraîcheur en pleine canicule",
+    "link": "https://reporterre.net/45-oC-sous-les-tentes-Israel-restreint-l-acces-des-Palestiniens-a-l-eau-et-a-la-fraicheur",
+    "date": "2026-07-20T14:02:16.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Je l'ai trouvé par terre à côté des serres » : les canicules laissent les paysans KO",
+    "link": "https://reporterre.net/Je-l-ai-trouve-par-terre-a-cote-des-serres-les-canicules-laissent-les-paysans-KO",
+    "date": "2026-07-20T14:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "En Camargue, des lignes à haute tension exemptées d'évaluation environnementale",
+    "link": "https://reporterre.net/En-Camargue-des-lignes-a-haute-tension-exemptees-d-evaluation-environnementale",
+    "date": "2026-07-20T13:26:16.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Après un léger ralentissement, la fonte de la banquise arctique reprend de plus belle",
+    "link": "https://reporterre.net/Apres-un-leger-ralentissement-la-fonte-de-la-banquise-arctique-reprend-de-plus-belle",
+    "date": "2026-07-20T13:10:17.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Barrage illégal de Caussade : la justice alourdit les sanctions contre la Coordination rurale",
+    "link": "https://reporterre.net/Barrage-illegal-de-Caussade-la-justice-alourdit-les-sanctions-contre-la-Coordination",
+    "date": "2026-07-20T12:59:41.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Canicule : près de 700 000 poules pondeuses sont mortes en France",
+    "link": "https://reporterre.net/Canicule-pres-de-700-000-poules-pondeuses-sont-mortes-en-France",
+    "date": "2026-07-20T12:20:38.000Z"
+  },
+  {
+    "source": "Les Jours",
     "title": "Traces existantes, traces dissimulées",
     "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep20-traces-existantes-traces-dissimulees/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
     "date": "Mon, 20 Jul 2026 09:59:00 GMT"
@@ -52,71 +118,5 @@
     "title": "Le détective se met en chasse",
     "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep18-detective-chasse/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
     "date": "Sat, 18 Jul 2026 09:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Forêts rasées, montagnes bétonnées : la vraie carte des JO 2030 dans les Alpes",
-    "link": "https://reporterre.net/Forets-rasees-montagnes-betonnees-la-vraie-carte-des-JO-2030-dans-les-Alpes",
-    "date": "2026-07-18T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Est-ce que vous réalisez que des gens sont morts ? » : après les incendies, le traumatisme des sinistrés en Andalousie",
-    "link": "https://reporterre.net/Est-ce-que-vous-realisez-que-des-gens-sont-morts-apres-les-incendies-le-traumatisme-des",
-    "date": "2026-07-18T05:00:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Cancers, pesticides : Louis-Adrien Delarue, médecin en lutte contre les « irresponsables politiques »",
-    "link": "https://reporterre.net/Louis-Adrien-Delarue-medecin-en-lutte-contre-les-pesticides",
-    "date": "2026-07-18T05:00:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Les jardiniers, eux, n'ont pas eu le choix de prédire la canicule »",
-    "link": "https://reporterre.net/Les-jardiniers-eux-n-ont-pas-eu-le-choix-de-predire-la-canicule",
-    "date": "2026-07-18T05:00:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Violence d’extrême droite : à Calais, le cri dans le vide des associations d’aide aux exilés",
-    "link": "https://lesjours.fr/obsessions/ultradroite-france-angleterre-manche/ep3-apathie-autorites/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Fri, 17 Jul 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Luttes en montagne : les Naturalistes des terres investissent les Alpes",
-    "link": "https://reporterre.net/Luttes-en-montagne-les-Naturalistes-des-terres-investissent-les-Alpes",
-    "date": "2026-07-17T15:19:59.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "En limitant les data centers, New York lance un mouvement aux États-Unis",
-    "link": "https://reporterre.net/En-limitant-les-data-centers-New-York-lance-un-mouvement-aux-Etats-Unis",
-    "date": "2026-07-17T14:02:36.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Des écologistes ciblés par Israël : « Ils veulent vider le Sud-Liban de sa faune, de sa flore, et détruire son environnement »",
-    "link": "https://reporterre.net/Des-ecologistes-cibles-par-Israel-Ils-veulent-vider-le-Sud-Liban-de-sa-faune-de-sa-flore",
-    "date": "2026-07-17T13:40:05.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Canada : près de 900 incendies en cours et 2,7 millions d'hectares brûlés",
-    "link": "https://reporterre.net/Canada-pres-de-900-incendies-en-cours-et-2-7-millions-d-hectares-brules",
-    "date": "2026-07-17T13:04:21.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Canicule : une explosion de désinformation climatique sur CNews, Sud Radio et Europe 1",
-    "link": "https://reporterre.net/Canicule-une-explosion-de-desinformation-climatique-sur-CNews-Sud-Radio-et-Europe-1",
-    "date": "2026-07-17T12:50:43.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Canicule : plus de 12 000 décès excédentaires enregistrés en Europe",
-    "link": "https://reporterre.net/Canicule-plus-de-12-000-deces-excedentaires-enregistres-en-Europe",
-    "date": "2026-07-17T10:19:57.000Z"
   }
 ]
