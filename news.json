@@ -1,6 +1,90 @@
 [
   {
     "source": "Les Jours",
+    "title": "Saint-Malo",
+    "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep28-saint-malo/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Tue, 28 Jul 2026 09:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "DIRECT Megafeux : la situation reste « imprévisible » en Gironde",
+    "link": "https://reporterre.net/DIRECT-Megafeux-la-situation-reste-imprevisible-en-Gironde",
+    "date": "2026-07-28T08:43:30.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Le tour de France interrompu de Marine Tondelier, rattrapé par les incendies",
+    "link": "https://reporterre.net/Le-tour-de-France-interrompu-de-Marine-Tondelier-rattrape-par-les-incendies",
+    "date": "2026-07-28T08:14:32.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Incendies : avec les fumées, le danger voyage sur des centaines de kilomètres",
+    "link": "https://reporterre.net/Incendies-avec-les-fumees-le-danger-voyage-sur-des-centaines-de-kilometres",
+    "date": "2026-07-28T07:33:40.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Vagues artificielles : « Sans la mer, le surf n'est plus qu'image et performance »",
+    "link": "https://reporterre.net/Vagues-artificielles-Sans-la-mer-le-surf-n-est-plus-qu-image-et-performance",
+    "date": "2026-07-28T05:10:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Les géants pétroliers ont doublé leurs profits depuis le début de la guerre en Iran",
+    "link": "https://reporterre.net/Les-geants-petroliers-ont-double-leurs-profits-depuis-le-debut-de-la-guerre-en-Iran",
+    "date": "2026-07-27T22:01:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "La Gironde dans l’effroi, dans les flammes",
+    "link": "https://lesjours.fr/obsessions/les-jours-a-l-oeil-saison-3/ep2-incendies-gironde/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Mon, 27 Jul 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Face aux incendies, les Écologistes réclament un « État-providence climatique »",
+    "link": "https://reporterre.net/Face-aux-incendies-les-Ecologistes-reclament-un-Etat-providence-climatique",
+    "date": "2026-07-27T16:06:13.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Des pointes à 40 °C : une 4e vague de fortes chaleurs débute mardi",
+    "link": "https://reporterre.net/Des-pointes-a-40-oC-une-4e-vague-de-fortes-chaleurs-debute-mardi",
+    "date": "2026-07-27T15:00:17.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Incendies en Espagne : le Premier ministre Pedro Sánchez appelle à un « pacte d'État » sur l'urgence climatique",
+    "link": "https://reporterre.net/Incendies-en-Espagne-le-Premier-ministre-Pedro-Sanchez-appelle-a-un-pacte-d-Etat-sur-l",
+    "date": "2026-07-27T13:37:20.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Incendie en Gironde : une journée plus calme avant le retour de la canicule",
+    "link": "https://reporterre.net/EN-DIRECT-Incendie-en-Gironde-le-feu-est-stabilise-mais-pas-fixe",
+    "date": "2026-07-27T12:45:13.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "L'incendie de Gironde a produit son propre « orage de feu »",
+    "link": "https://reporterre.net/L-incendie-de-Gironde-a-produit-son-propre-orage-de-feu",
+    "date": "2026-07-27T12:21:03.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Ces canaux provençaux vieux de cinq siècles rechargent les nappes et font vivre les paysans",
+    "link": "https://reporterre.net/Ces-canaux-provencaux-vieux-de-cinq-siecles-rechargent-les-nappes-et-font-vivre-les",
+    "date": "2026-07-27T12:19:15.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Incendies : le cercle vicieux du carbone libéré par les flammes",
+    "link": "https://reporterre.net/Incendies-en-brulant-les-forets-francaises-alimentent-le-dereglement-climatique-qui-les",
+    "date": "2026-07-27T12:18:48.000Z"
+  },
+  {
+    "source": "Les Jours",
     "title": "Le procès d’une femme et non d’un meurtre",
     "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep27-proces-femme-non-meurtre/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
     "date": "Mon, 27 Jul 2026 09:59:00 GMT"
@@ -34,89 +118,5 @@
     "title": "Clôtures et forêts engrillagées : comment retrouver la liberté de cheminer",
     "link": "https://reporterre.net/Clotures-et-forets-engrillagees-comment-retrouver-la-liberte-de-cheminer",
     "date": "2026-07-26T06:00:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« L'époque n'encourage pas la nuance » : guide « un peu bourrin » pour orienter les décideurs sur l'écologie",
-    "link": "https://reporterre.net/L-epoque-n-encourage-pas-la-nuance-guide-un-peu-bourrin-pour-orienter-les-decideurs-sur-l",
-    "date": "2026-07-26T05:30:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "2,5°C de plus, peu ou prout",
-    "link": "https://lesjours.fr/obsessions/alerte-secheresse-saison-6/ep40-darmanin-rechauffement/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Sat, 25 Jul 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Alban de Jong",
-    "link": "https://lesjours.fr/obsessions/les-deux-megots-edwige-alessandri/ep25-alban-de-jong/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Sat, 25 Jul 2026 09:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Fumées, cendres et sidération : Bordeaux suffoque sous l'incendie de Gironde",
-    "link": "https://reporterre.net/Fumees-cendres-et-sideration-Bordeaux-suffoque-sous-l-incendie-de-Gironde",
-    "date": "2026-07-25T09:33:51.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« J'ai cru que ma vie allait partir en fumée » : les grimpeurs pleurent la forêt de Fontainebleau",
-    "link": "https://reporterre.net/J-ai-cru-que-ma-vie-allait-partir-en-fumee-les-grimpeurs-pleurent-la-foret-de",
-    "date": "2026-07-25T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Les rivières, des paradis rafraîchissants et instructifs",
-    "link": "https://reporterre.net/Les-rivieres-des-paradis-rafraichissants-et-instructifs",
-    "date": "2026-07-25T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Sans notre intervention, il n'y aurait quasiment plus de busards en France » : comment agriculteurs et écologistes protègent ces oiseaux des champs",
-    "link": "https://reporterre.net/Sans-notre-intervention-il-n-y-aurait-quasiment-plus-de-busards-en-France-comment",
-    "date": "2026-07-25T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« C'est démoralisant » : faute d'aides adaptées, la pêche artisanale se meurt à La Réunion",
-    "link": "https://reporterre.net/C-est-demoralisant-faute-d-aides-adaptees-la-peche-artisanale-se-meurt-a-La-Reunion",
-    "date": "2026-07-25T05:30:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Jade et Arnaud, Lagardère des ders 💔",
-    "link": "https://lesjours.fr/obsessions/cause-du-people/ep20-jade-arnaud-lagardere-rupture/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Fri, 24 Jul 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "La quatrième canicule de l'été attendue en France",
-    "link": "https://reporterre.net/La-quatrieme-canicule-de-l-ete-attendue-en-France",
-    "date": "2026-07-24T14:22:26.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Au cœur d'un été cataclysmique, TotalEnergies annonce 9,8 milliards d'euros de profits",
-    "link": "https://reporterre.net/Au-coeur-d-un-ete-cataclysmique-TotalEnergies-annonce-9-8-milliards-d-euros-de-profits",
-    "date": "2026-07-24T13:48:19.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Un projet de data center à 1,5 milliard d'euros suspendu par la justice",
-    "link": "https://reporterre.net/Un-projet-de-data-center-a-1-5-milliard-d-euros-suspendu-dans-la-Drome-Des-militants-font",
-    "date": "2026-07-24T13:46:20.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Le retour de l'acétamipride à nouveau contesté devant le Conseil Constitutionnel",
-    "link": "https://reporterre.net/Loi-d-urgence-agricole-Ecolos-et-Insoumis-saisissent-le-Conseil-Constitutionnel",
-    "date": "2026-07-24T13:20:32.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "La Coordination rurale appelle à désobéir aux interdictions d'arroser en pleine sécheresse",
-    "link": "https://reporterre.net/La-Coordination-rurale-appelle-a-desobeir-aux-interdictions-d-arroser-en-pleine-secheresse",
-    "date": "2026-07-24T12:03:56.000Z"
   }
 ]
