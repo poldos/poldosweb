@@ -1,13 +1,109 @@
 [
   {
     "source": "Reporterre",
+    "title": "Arrachage des yeux des crevettes : les supermarchés sommés d'arrêter une pratique cruelle",
+    "link": "https://reporterre.net/Arrachage-des-yeux-des-crevettes-les-supermarches-sommes-d-arreter-une-pratique-cruelle",
+    "date": "2026-10-16T12:44:23.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Les pressions de la FNSEA ont échoué : le schéma de gestion de l'eau de la Vilaine enfin adopté",
+    "link": "https://reporterre.net/Les-pressions-de-la-FNSEA-ont-echoue-le-schema-de-gestion-de-l-eau-de-la-Vilaine-enfin-adopte",
+    "date": "2026-10-16T11:51:10.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "La pratique du vélo décolle de 18 % sur un an",
+    "link": "https://reporterre.net/La-pratique-du-velo-decolle-de-18-sur-un-an",
+    "date": "2026-10-16T10:29:21.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Mégaferme à saumons : une nouvelle manifestation prévue en Gironde",
+    "link": "https://reporterre.net/Megaferme-a-saumons-une-nouvelle-manifestation-prevue-en-Gironde",
+    "date": "2026-10-16T10:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "A412 : la justice refuse de suspendre le chantier, les opposants restent mobilisés",
+    "link": "https://reporterre.net/A412-la-justice-refuse-de-suspendre-le-chantier-les-opposants-restent-mobilises",
+    "date": "2026-10-16T09:00:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Grotte de Lascaux, château de Carcassonne... Les sites patrimoniaux menacés par le changement climatique",
+    "link": "https://reporterre.net/Grotte-de-Lascaux-chateau-de-Carcassonne-Les-sites-patrimoniaux-menaces-par-le-changement-climatique",
+    "date": "2026-10-16T06:35:07.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« Nous, banlieusards, fils d'immigrés, on n'est pas assez représentés » : les lycéens des quartiers créent leur syndicat",
+    "link": "https://reporterre.net/On-est-souvent-les-derniers-a-etre-ecoutes-les-lyceens-des-quartiers-creent-leur-syndicat",
+    "date": "2026-10-16T06:28:28.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« La forêt, oui merci » : élus et riverains parviennent à freiner le chantier d'une ligne à grande vitesse",
+    "link": "https://reporterre.net/Pour-freiner-la-LGV-Bordeaux-Toulouse-elus-et-habitants-jouent-a-cache-cache-avec-les",
+    "date": "2026-10-16T05:30:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Mobilisation du 17 octobre : « La droite et l'extrême droite sont en panique »",
+    "link": "https://reporterre.net/Mobilisation-du-17-octobre-La-droite-et-l-extreme-droite-sont-en-panique",
+    "date": "2026-10-16T05:30:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "Marine Le Pen, la cass décisive",
+    "link": "https://lesjours.fr/obsessions/rn-derniere-marche-3/ep10-le-pen-date-cassation/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Thu, 15 Oct 2026 16:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Cancers de la peau : travailler dehors nous expose davantage",
+    "link": "https://reporterre.net/Cancers-de-la-peau-travailler-dehors-nous-expose-davantage",
+    "date": "2026-10-15T15:20:43.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Il voulait « faire la peau » aux écologistes, le président de la Coordination rurale condamné à 15 000 euros d'amende",
+    "link": "https://reporterre.net/Il-voulait-faire-la-peau-aux-ecologistes-le-president-de-la-Coordination-rurale-condamne-a-15-000-euros-d-amende",
+    "date": "2026-10-15T14:52:09.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Fuites de méthane : l'Europe cède aux lobbies de l'énergie",
+    "link": "https://reporterre.net/Fuites-de-methane-l-Europe-cede-aux-lobbies-les-ONG-inquietes",
+    "date": "2026-10-15T14:35:23.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Le gouvernement fusionne les Autorités environnementales, les associations inquiètes",
+    "link": "https://reporterre.net/Le-gouvernement-fusionne-les-Autorites-environnementales-au-detriment-de-la-protection-de",
+    "date": "2026-10-15T13:47:43.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Plan pour la nature : la France voit grand mais ne propose rien",
+    "link": "https://reporterre.net/Le-plan-pour-la-nature-de-la-France-n-a-aucune-ambition-malgre-l-insistance-de-l-Europe",
+    "date": "2026-10-15T13:45:22.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "358 procès de militants écologistes depuis 2020 : ils répertorient des « arguments puissants » pour gagner en justice",
+    "link": "https://reporterre.net/358-proces-de-militants-ecologistes-depuis-2020-ils-repertorient-des-arguments-puissants",
+    "date": "2026-10-15T13:30:00.000Z"
+  },
+  {
+    "source": "Reporterre",
     "title": "3 activistes arrêtés pour avoir perturbé un convoi de déchets radioactifs en Allemagne",
     "link": "https://reporterre.net/3-activistes-arretes-pour-avoir-perturbe-un-convoi-de-dechets-radioactifs-en-Allemagne",
     "date": "2026-10-15T12:03:15.000Z"
   },
   {
     "source": "Reporterre",
-    "title": "Des futurs médecins (enfin) formés aux liens entre pollutions et cancer",
+    "title": "Les liens entre cancer et pollution enfin enseignés aux futurs médecins",
     "link": "https://reporterre.net/Des-futurs-medecins-enfin-formes-aux-liens-entre-pollutions-et-cancer",
     "date": "2026-10-15T07:22:41.000Z"
   },
@@ -22,101 +118,5 @@
     "title": "Ne jetez plus vos parapluies cassés, ces artisanes les réparent",
     "link": "https://reporterre.net/Nous-ne-sommes-que-2-en-France-elles-reparent-les-parapluies-casses",
     "date": "2026-10-15T05:30:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Budget : l’Assemblée a la dette qui tourne",
-    "link": "https://lesjours.fr/obsessions/assemblee-nationale-2024/ep63-budget-retour/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Wed, 14 Oct 2026 16:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "En Guadeloupe, les lycéens dénoncent des classes surchauffées et les coupures d'eau",
-    "link": "https://reporterre.net/En-Guadeloupe-les-lyceens-denoncent-des-classes-surchauffees-et-les-coupures-d-eau",
-    "date": "2026-10-14T15:16:10.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Des scientifiques dressent le bilan de santé de la planète, et c'est dramatique",
-    "link": "https://reporterre.net/Des-scientifiques-dressent-le-bilan-de-sante-de-la-planete-et-c-est-dramatique",
-    "date": "2026-10-14T13:05:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Budget 2027 : réduire le déficit au détriment du climat est un calcul risqué",
-    "link": "https://reporterre.net/Budget-2027-reduire-le-deficit-au-detriment-du-climat-est-un-calcul-risque",
-    "date": "2026-10-14T12:58:38.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Le mouvement lycéen, un front succès",
-    "link": "https://lesjours.fr/obsessions/etincelle-lycees/ep3-manifestation-13-octobre/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Wed, 14 Oct 2026 12:14:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "LBD, grenades... Une pétition contre les armes des policiers récolte plus de 130 000 signatures",
-    "link": "https://reporterre.net/LBD-grenades-Une-petition-contre-les-armes-des-policiers-recolte-plus-de-130-000-signatures",
-    "date": "2026-10-14T12:12:49.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« On a tous en ligne de mire le 17 octobre » : chez les lycéens, la convergence comme horizon",
-    "link": "https://reporterre.net/Qui-veut-du-thieb-C-est-gratuit-La-solidarite-s-organise-autour-des-lyceens",
-    "date": "2026-10-14T07:16:36.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Le cidre en souffrance : la récolte de pommes s'annonce « dramatique »",
-    "link": "https://reporterre.net/Le-cidre-en-souffrance-la-recolte-de-pommes-s-annonce-dramatique",
-    "date": "2026-10-14T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« J'ai découvert à quel point ce cancer allait m'appauvrir » : les femmes paient le prix de la maladie",
-    "link": "https://reporterre.net/Je-suis-sortie-de-chimio-endettee-le-cancer-du-sein-appauvrit-les-femmes",
-    "date": "2026-10-14T05:30:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Pour sauver sa centrale nucléaire, la Hongrie construit un barrage sans autorisation environnementale",
-    "link": "https://reporterre.net/Pour-sauver-sa-centrale-nucleaire-la-Hongrie-construit-un-barrage-sans-autorisation-environnementale",
-    "date": "2026-10-13T15:32:05.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "L'artiste derrière l'hymne des blocus lycéens est un opposant à Monsanto",
-    "link": "https://reporterre.net/Qui-est-Nodey-l-artiste-derriere-l-hymne-des-blocus-lyceens",
-    "date": "2026-10-13T14:00:00.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Il a étouffé un ruisseau, la justice l'a condamné : récit d'un jugement inhabituel",
-    "link": "https://reporterre.net/Il-a-etouffe-un-ruisseau-la-justice-l-a-condamne-recit-d-un-jugement-inhabituel",
-    "date": "2026-10-13T14:00:00.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Jordan Bardella ment : en 2013, il était bien militant actif au sein du Front national",
-    "link": "https://lesjours.fr/obsessions/rn-derniere-marche-3/ep9-bardella-militant/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Tue, 13 Oct 2026 10:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« Le monde entier regarde ce que vous faites » : Greta Thunberg rejoint les lycéens de Seine-Saint-Denis",
-    "link": "https://reporterre.net/Le-monde-entier-regarde-ce-que-vous-faites-Greta-Thunberg-rejoint-les-lyceens-de-Seine-Saint-Denis",
-    "date": "2026-10-13T10:08:26.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Chauffage, transport : la baisse des émissions se poursuit, mais pas assez vite",
-    "link": "https://reporterre.net/Chauffage-transport-la-baisse-des-emissions-se-poursuit-mais-pas-assez-vite",
-    "date": "2026-10-13T09:19:35.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "L'État veut faire payer les lycéens qui « cassent »... mais pas les entreprises qui polluent",
-    "link": "https://reporterre.net/Loi-casseur-payeur-l-executif-veut-punir-les-lyceens-mais-laisse-les-pollueurs-dormir",
-    "date": "2026-10-13T05:30:00.000Z"
   }
 ]
