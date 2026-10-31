@@ -1,7 +1,43 @@
 [
   {
     "source": "Reporterre",
-    "title": "Nicholas Stern sur le changement climatique : « Il faut une refonte de l'économie »",
+    "title": "COP biodiversité : des avancées trop timides pour enrayer l'érosion massive du vivant",
+    "link": "https://reporterre.net/COP-biodiversite-des-avancees-trop-timides-pour-enrayer-l-erosion-massive-du-vivant",
+    "date": "2026-10-31T09:40:18.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "« À quel moment on va dire stop ? » : à Trappes, ils dénoncent le racisme du RN et des médias comme CNews",
+    "link": "https://reporterre.net/A-quel-moment-on-va-dire-stop-a-Trappes-ils-denoncent-le-racisme-du-RN-et-des-medias-comme-CNews",
+    "date": "2026-10-31T08:55:05.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Pour protéger 5 000 chauve-souris, une association achète les abords de leur grotte ",
+    "link": "https://reporterre.net/Une-association-achete-les-abords-d-une-grotte-pour-proteger-ses-5-000-chauve-souris",
+    "date": "2026-10-31T06:05:00.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Obsèques hors de prix : « Il faut étendre la Sécurité sociale à la mort »",
+    "link": "https://reporterre.net/Obseques-hors-de-prix-Il-faut-etendre-la-Securite-sociale-a-la-mort",
+    "date": "2026-10-31T06:00:00.000Z"
+  },
+  {
+    "source": "Les Jours",
+    "title": "Inceste : deux sœurs broyées par la machine judiciaire",
+    "link": "https://lesjours.fr/obsessions/proces-inceste-mots-scelles/ep2-plainte-auditions/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
+    "date": "Fri, 30 Oct 2026 17:59:00 GMT"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Accidents graves et cadences infernales : plusieurs chantiers de data centers épinglés à travers l'Europe",
+    "link": "https://reporterre.net/Accidents-graves-et-cadences-infernales-plusieurs-chantiers-de-data-centers-epingles-a",
+    "date": "2026-10-30T15:04:17.000Z"
+  },
+  {
+    "source": "Reporterre",
+    "title": "Climat : « Nous avons perdu du temps et la situation est très dangereuse »",
     "link": "https://reporterre.net/Nicholas-Stern-sur-le-changement-climatique-Il-faut-une-refonte-de-l-economie",
     "date": "2026-10-30T14:00:00.000Z"
   },
@@ -37,7 +73,7 @@
   },
   {
     "source": "Reporterre",
-    "title": "Bip bip : ce camion-épicerie sillonne les campagnes pour lutter contre la malbouffe et la solitude",
+    "title": "« Ici, je me sens mieux qu'aux Restos du coeur » : cette épicerie mobile lutte contre la malbouffe et l'isolement",
     "link": "https://reporterre.net/En-tournee-avec-ce-camion-epicerie-solidaire-qui-permet-de-mieux-se-nourrir-en-brisant-l-isolement",
     "date": "2026-10-30T06:05:00.000Z"
   },
@@ -82,41 +118,5 @@
     "title": "« Il faut que ceux qui se gavent mettent la main au porte-monnaie » : en pleine crise sociale, les superprofits de Total ne passent pas",
     "link": "https://reporterre.net/C-est-d-une-indecence-rare-en-pleine-crise-sociale-Total-salue-ses-benefices-record",
     "date": "2026-10-29T14:02:30.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "927 personnes « sans chez-soi » sont mortes en 2025",
-    "link": "https://reporterre.net/927-personnes-sans-chez-soi-sont-mortes-en-2025",
-    "date": "2026-10-29T11:29:11.000Z"
-  },
-  {
-    "source": "Les Jours",
-    "title": "Orphelins de féminicides : « La grande sœur », un podcast « Les Jours » x Louie Media",
-    "link": "https://lesjours.fr/obsessions/vie-jours/ep179-louie-media-vanessa-vazard/?utm_source=rss-feed&utm_medium=RSS&utm_campaign=rss-feed",
-    "date": "Thu, 29 Oct 2026 10:59:00 GMT"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Stopper les éoliennes la nuit : cinq fois moins de collisions pour les chauves-souris",
-    "link": "https://reporterre.net/Stopper-les-eoliennes-la-nuit-cinq-fois-moins-de-collisions-pour-les-chauves-souris",
-    "date": "2026-10-29T09:22:59.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« C'est un crachat sur un cercueil » : un grand raout de réactionnaires et de climatosceptiques monté avec de l'argent public",
-    "link": "https://reporterre.net/Un-grand-raout-de-reactionnaires-et-de-climatosceptiques-monte-avec-de-l-argent-public",
-    "date": "2026-10-29T08:33:50.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "« L'économie de la mort » : comment le pouvoir nie les besoins vitaux des personnes racisées",
-    "link": "https://reporterre.net/De-la-traite-esclavagiste-aux-lycees-de-Saint-Denis-comment-le-pouvoir-prive-les-personnes-racisees-de-leurs-besoins-elementairesarticle",
-    "date": "2026-10-29T07:19:35.000Z"
-  },
-  {
-    "source": "Reporterre",
-    "title": "Cigéo : à Bure, la poubelle nucléaire prend l'eau (ou ce qu'il en reste)",
-    "link": "https://reporterre.net/Cigeo-a-Bure-la-poubelle-nucleaire-prend-l-eau-ou-ce-qu-il-en-reste",
-    "date": "2026-10-29T07:10:38.000Z"
   }
 ]
